@@ -8,14 +8,14 @@ p {
 h1 {
   margin: 22px auto;
 }
-.menu {
+footer a {
   color: green;
   margin: 0 10px;
 }
-.menu:visited {
+footer a:visited {
     color:green;
 }
-.menu:hover {
+footer a:hover {
   color: green;
 }
 footer {
